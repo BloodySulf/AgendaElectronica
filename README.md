@@ -4,7 +4,7 @@
 
 Mi primer proyecto hecho con Java, una agenda electronica como las de antes.
 <br>
-Hecho con Java en el IDE Netbeans, utilizando la libreria grafica Swing para la interfaz de usuario.
+Java with Ant en el IDE Netbeans, utilizando la libreria grafica Swing para la interfaz de usuario.
 <br>
 archivo .jar en la carpeta dist "agendaelectronica.jar".
 
